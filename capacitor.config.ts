@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'firestore-checker',
+  appId: 'me.mehmetali345dev.fschecker',
+  appName: 'Firestore Checker',
   webDir: 'dist',
   bundledWebRuntime: false
 };

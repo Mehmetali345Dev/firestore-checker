@@ -1,5 +1,5 @@
 {
-  "name": "firestore-checker",
+  "name": "Firestore Checker",
   "integrations": {
     "capacitor": {}
   },
