@@ -1,0 +1,7 @@
+{
+  "name": "firestore-checker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
